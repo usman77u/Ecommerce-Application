@@ -1,2 +1,2 @@
-# Ecommerce-Application
-Ecommerce Application
+# E-commerce-Application
+E-commerce Application
